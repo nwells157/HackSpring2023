@@ -1,5 +1,8 @@
 Hi thanks for looking at our Make OHIO Repo.
 
+Team Members:
+Nick Wells, Anuj Lutel, Kelly Finitsas, Joey Onderko
+
 What was the goal?
 We tried to automate the process of movning around your mirror when you are on the road. By using a webcam and a laptop as our processing power for OpenCV we were able to get XY cordinates from the camera. 
 
