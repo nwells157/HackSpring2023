@@ -1,5 +1,9 @@
 Hi thanks for looking at our Make OHIO Repo.
 
+Here is a link to our submission video.
+
+https://youtu.be/DdrdtUFOwLg
+
 Team Members:
 Nick Wells, Anuj Lutel, Kelly Finitsas, Joey Onderko
 
